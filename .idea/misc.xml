@@ -3,11 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/activity_register.xml" value="0.1" />
         <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/activity_succes_login.xml" value="0.1" />
         <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Documents/2-YnovCours/DevMobile/TodoListFirebase/app/src/main/res/layout/fragment_first.xml" value="0.1984375" />
       </map>
     </option>
   </component>

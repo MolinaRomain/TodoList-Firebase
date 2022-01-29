@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+    <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.TodoListFirebase" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
@@ -11,8 +11,11 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="bgc">#ffffff</item>
+        <item name="tC">#000000</item>
         <!-- Customize your theme here. -->
     </style>
+
 
     <style name="Theme.TodoListFirebase.NoActionBar">
         <item name="windowActionBar">false</item>
