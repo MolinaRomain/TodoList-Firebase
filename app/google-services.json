@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "999600329902",
-    "project_id": "todolist-firebase-a0774",
-    "storage_bucket": "todolist-firebase-a0774.appspot.com"
+    "project_number": "310285650437",
+    "project_id": "todolistfirebase-8e2b3",
+    "storage_bucket": "todolistfirebase-8e2b3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:999600329902:android:d155e9f4022275eede893f",
+        "mobilesdk_app_id": "1:310285650437:android:8c605bbaf11f1f944d6a6c",
         "android_client_info": {
           "package_name": "com.ynov.todolist_firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "999600329902-najpkgqf4pqqmgj97oeijjloj58b5ggp.apps.googleusercontent.com",
+          "client_id": "310285650437-h064hga5ka8797luuhh4i1vgba8m5q9e.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDXrbU-1X9R-tpRIIUUW06MRLeivUyV70A"
+          "current_key": "AIzaSyDIiKbOkcmVhi0qpMs9e814pfoheP7adzs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "999600329902-najpkgqf4pqqmgj97oeijjloj58b5ggp.apps.googleusercontent.com",
+              "client_id": "310285650437-h064hga5ka8797luuhh4i1vgba8m5q9e.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
