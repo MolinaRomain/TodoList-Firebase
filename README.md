@@ -6,7 +6,7 @@
 <img src="https://i.goopics.net/w5d38a.png" height="100px">
 
 ## Outils et technologies
-* **Android Studio :** développer en Java
+* **Android Studio :** développé en Java
 * **Firebase :** Afin de préserver les données et d'y avoir accès n'importe où
 
 ## Structure de l'application
